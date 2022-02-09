@@ -2,8 +2,8 @@
 
 - 🌈 I’m currently working at Tencent Outsourcing
 - 🐳 My current field of work is CloudNative/Ops/SRE/DevOps
-- 🤔 My Blog is [https://www.infvie.com/](https://www.infvie.com/) 
-- 💬 Welcomed to ask me about `CloudNative/Ops/SRE/DevOps/Linux/..`
+- 🤔 My Blog is [https://www.infvie.com](https://www.infvie.com) 
+- 💬 Welcomed to ask me about `CloudNative/Ops/SRE/DevOps/Linux..`
 - 📫 How to reach me: [email: einicyeo@gmail.com](einicyeo@gmail.com)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Einic&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
