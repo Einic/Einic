@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Einic&show_icons=true&theme=vue" alt="InfvieEnvoy's github stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact&langs_count=6)
 
 <!--
 - 🌈 I’m currently working at Tencent Outsourcing
