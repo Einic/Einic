@@ -27,4 +27,4 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact&height="160")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact&height="160000")
