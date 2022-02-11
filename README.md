@@ -1,10 +1,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Einic&show_icons=true&theme=vue" alt="InfvieEnvoy's github stats" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact&langs_count=4)
+
+<!--
 - 🌈 I’m currently working at Tencent Outsourcing
 - 🐳 My current field of work is CloudNative/Ops/SRE/DevOps
 - 🤔 My Blog is [https://www.infvie.com](https://www.infvie.com) 
 - 💬 Welcomed to ask me about `CloudNative/Ops/SRE/DevOps/Linux..`
 - 📫 How to reach me: [email: einicyeo@gmail.com](einicyeo@gmail.com)
+-->
 
 <img src="https://github-profile-trophy.vercel.app/?username=Einic&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
@@ -27,4 +31,4 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact&height="160000")
+
