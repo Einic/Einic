@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Einic&show_icons=true&theme=vue" alt="InfvieEnvoy's github stats" width="454" height="195" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Einic&show_icons=true&theme=vue" alt="InfvieEnvoy's github stats" width="454" height="185" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact&langs_count=6)
 
