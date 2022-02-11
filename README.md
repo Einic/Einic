@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact alt="logo" height="160" align="center" />
