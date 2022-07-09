@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einic&layout=compact&langs_count=6)
 -->
 
-- 🌈 I’m currently working at Envoy
+- 🌈 I’m currently working at envoy
 - 🐳 My current field of work is CloudNative/Ops/SRE/DevOps
 - 🤔 My Blog is [https://www.infvie.com](https://www.infvie.com) 
 - 💬 Welcomed to ask me about `CloudNative/Ops/SRE/DevOps/Linux..`
